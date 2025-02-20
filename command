@@ -1,4 +1,8 @@
 # Awalan :
+sudo su
+apt update
+
+# install panel
 docker-compose up -d
 docker-compose up -d
  clear
