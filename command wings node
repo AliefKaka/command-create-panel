@@ -1,0 +1,6 @@
+# awalan
+sudo apt update
+sudo apt upgrade
+
+# start
+docker-compose up -d
