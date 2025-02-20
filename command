@@ -1,6 +1,7 @@
 # Awalan :
 sudo su
 apt update
+clear
 
 # install panel
 docker-compose up -d
